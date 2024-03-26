@@ -1,4 +1,8 @@
 # GoogleAdvancedDataAnalyticsProfessionalCertificate
+ㅑ
+
+a
+### Course 3 과정의 project가 추가되었음.
 repository for Google Advanced Data Analytics Professional Certificate projects
 
 <h2>Workplace Senario repository</h2>
